@@ -12,4 +12,4 @@ A capstone project illustrating a personal resume website developed using HTML a
 
 Visit the website here:
 
-https://aaryan4code.github.io/Resume/
+https://aaryan4code.github.io/Resume_Project/
